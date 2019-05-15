@@ -11,3 +11,5 @@ An update
 I am checking git commit
 again
 A new line
+
+This is the line i am adding to the example branch
