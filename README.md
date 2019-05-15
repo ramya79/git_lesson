@@ -8,3 +8,4 @@ Fourth change
 
 This is a new change
 An update
+I am checking git commit
